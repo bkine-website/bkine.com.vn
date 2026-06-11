@@ -10,10 +10,8 @@
     ),
     url('assets/images/contact-bg.jpg') center/cover no-repeat;
 }
-/* Submit Inquiry button */
 .contact-form .btn,
 .contact-form button[type="submit"]{
-    font-size:14px !important;
+    font-size:28px !important;
     font-weight:700;
-    line-height:1.2;
 }
