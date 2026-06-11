@@ -9,7 +9,7 @@
       rgba(7,26,46,.35),
       rgba(10,46,82,.30)
     ),
-    url('assets/images/contact-bg.jpg') center/cover no-repeat !important;
+    url('assets/images/contact-bg.png') center/cover no-repeat !important;
 }
 .contact-form .btn,
 .contact-form button[type="submit"]{
