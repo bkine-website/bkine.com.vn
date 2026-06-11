@@ -5,8 +5,8 @@
   background:
     linear-gradient(
       135deg,
-      rgba(7,26,46,.50),
-      rgba(10,46,82,.45)
+      rgba(7,26,46,.40),
+      rgba(10,46,82,.35)
     ),
     url('assets/images/contact-bg.jpg') center/cover no-repeat;
 }
